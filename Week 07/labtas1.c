@@ -1,0 +1,1 @@
+//a code that converts capital into small latter and small into capital letter
