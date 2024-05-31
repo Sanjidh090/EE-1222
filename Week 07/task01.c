@@ -9,4 +9,5 @@ int main()
     *p =*q; *q=temp;
     printf("Value of a is %d \n",a);
     printf("Value of b is %d ",b);
+    return 0;
 }
