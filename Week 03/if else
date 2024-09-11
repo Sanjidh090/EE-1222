@@ -16,5 +16,5 @@ int main()
         printf("Ratio is = %f\n",ratio);
     }
     else
-        printf("invalid dihgits");
+        printf("invalid digits");
 }
