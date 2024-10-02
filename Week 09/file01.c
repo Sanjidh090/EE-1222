@@ -8,7 +8,7 @@ int main()
     file = fopen("text","w");
     if(file==NULL)
     {
-        printf("No file exists");
+        printf("No file exists.");
     
     }
     else
