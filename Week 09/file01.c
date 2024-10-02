@@ -13,7 +13,7 @@ int main()
     }
     else
     {
-        printf("a file exits \n");
+        printf("a file exists \n");
         for(int i=0;ch[i]!='\0';i++)
         {
         fputc(ch[i],file);
