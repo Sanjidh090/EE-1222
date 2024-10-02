@@ -3,7 +3,7 @@ int main()
 {
     FILE *file;
     char ch[40];
-    printf("Enter a write: ");
+    printf("Enter a text: ");
     gets(ch);
     file = fopen("text","a");
     if(file==NULL)
